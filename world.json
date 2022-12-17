@@ -122,5 +122,7 @@
       }
     ]
   },
-  "systemVersion": "2.0.3"
-}
+  "systemVersion": "2.0.3",
+  "url": "https://github.com/BrotherSharper/stormwreck-set/",
+  "download" : "https://github.com/BrotherSharper/stormwreck-set/archive/master.zip",
+	"manifest" : "https://raw.githubusercontent.com/BrotherSharper/stormwreck-set/master/module.json",
