@@ -1,0 +1,126 @@
+{
+  "title": "龍たちの島ストームレック",
+  "id": "stormwreck",
+  "system": "dnd5e",
+  "background": "https://www.dndbeyond.com/avatars/26865/226/637921086362458107.jpeg",
+  "coreVersion": "10.291",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10"
+  },
+  "relationships": {
+    "requires": [
+      {
+        "id": "dnd5eja",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "tidy5e-sheet",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "foundryVTTja",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "babele",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "lib-wrapper",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "babele",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "combatbooster",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "combat-enhancements",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "dice-so-nice",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "drag-ruler",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "dynamiceffects",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "fxmaster",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "JB2A_DnD5e",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "colorsettings",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "metron",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "midi-qol",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "permission_viewer",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "sequencer",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "smarttarget",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "socketlib",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "splatter",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "token-mold",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  },
+  "systemVersion": "2.0.3"
+}
