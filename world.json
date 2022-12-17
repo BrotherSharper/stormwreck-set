@@ -124,6 +124,11 @@
         "id": "autoanimations",
         "type": "module",
         "compatibility": {}
+      },
+      {
+        "id": "dice-calculator",
+        "type": "module",
+        "compatibility": {}
       }
     ]
   },
