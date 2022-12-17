@@ -36,11 +36,6 @@
         "compatibility": {}
       },
       {
-        "id": "babele",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
         "id": "combatbooster",
         "type": "module",
         "compatibility": {}
