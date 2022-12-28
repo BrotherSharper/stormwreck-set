@@ -2,7 +2,7 @@
 
 * **製作者**: Brother Sharp (ディスコード：Brother Sharp#6921)
 * **対応dnd5eバージョン**: 2.0.0+
-* **modバージョン**: 1.0
+* **modバージョン**: 1.1
 
 ### インストール方法
 
@@ -17,10 +17,11 @@ Modをいくつか依存関係として指定してあるので「とりあえ�
 * コマは自分でキャラクター一覧からドラッグ＆ドロップして配置してください。敵のHPなどは自動的にロールされ、個体差が出るようになってます。
 * 竜の安らぎのNPCたちはルナラを除きどうせ戦わないのでデータは入れてないです。
 * FVTTのサンプルキャラは入れてますので、自分でストームレックのキャラを再現するか、その背景をサンプルキャラに適用してください。
-* BGMは入ってません、次にアップデートするときに入れます。好みのものを用意して遊んでください。
+* BGMおよびほぼすべての主要な攻撃の効果音が入ってます。効果音がなるには必ずALT+クリックでターゲットを取った状態で攻撃などを行う必要があります。
 
 ### 同封Mod
 * Automated Animations：攻撃や特徴を使うとアニメーションを表示するためのモッド。スターターセットのキャラクターとモンスターのいくつかの特徴にはそのまま反応するはずです。反応するにはAltキー＋クリックでターゲットしている必要があります。
+* Action HUD：キャラが行えるアクションなどをショートカットバー風に表示してくれます。
 * Babele：日本語化に必要なもの。
 * Combat Booster：ターンマーカーや前に使った攻撃や特徴をコマを右クリックすると下に表示してくれる便利なやつ。
 * Combat-enhancements：戦闘タブでHPを見えやすくしたり、ドラッグ＆ドロップで順番を入れ替えられるようにしてくれます。
@@ -32,6 +33,7 @@ Modをいくつか依存関係として指定してあるので「とりあえ�
 * JB3A - Free content：アニメーションModが使うアニメーションが入ってる。
 * lib - Color Settings：他のModが使う。
 * libWrapper：他のModが使う。
+* Let me roll that for you: PLがセーヴを行う時、プロンプトを表示してくれます。
 * Metron：単位変換Mod。新しい特徴やアイテムを入れた時、ウィンドウの右上の「単位変換」ボタンをクリックするとヤード・ポンド法からメートル法にしてくれます。レベルアップ後にもらった特徴や呪文に使ってあげる必要があります。
 * Midi-Qol：自動化Mod。Altキー＋左クリックでターゲットした状態で攻撃を行うと自動的に判定とダメージ適用をしてくれます。セーヴの場合はGMが自動で、PLは30秒以内にキャラシから行う必要があります。集中も自動的にセーヴを求めてきます。
 * Ownership Viewer：権限を可視化してくれます。虹色：全員、単色：その色のPL、ダイヤ：限定的、四角：閲覧者、円形：所有者。例えば虹色＋円形であれば「全員がこのキャラの所有権を持っているよ」を教えてくれます。
@@ -60,6 +62,16 @@ Modをいくつか依存関係として指定してあるので「とりあえ�
 
 立ち絵：
 niji journey（AI生成）
+
+音声：
+不協和世界
+https://www.discoseum.com/user-policy
+
+Wingless-seraph
+https://wingless-seraph.net/en/material-riyoukiyaku_eng.html
+
+m-art
+https://mart.kitunebi.com/info.html
 
 その他：
 This world is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC.

@@ -124,6 +124,16 @@
         "id": "dice-calculator",
         "type": "module",
         "compatibility": {}
+      },
+      {
+        "id": "token-action-hud",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "lmrtfy",
+        "type": "module",
+        "compatibility": {}
       }
     ]
   },
