@@ -134,11 +134,36 @@
         "id": "lmrtfy",
         "type": "module",
         "compatibility": {}
+      },
+      {
+        "id": "minimal-ui",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "remote-highlight-ui",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "enhancedcombathud",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "vtta-tokenizer",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "token-frames",
+        "type": "module",
+        "compatibility": {}
       }
     ]
   },
-  "systemVersion": "2.0.3",
+  "systemVersion": "2.1.5",
   "url": "https://github.com/BrotherSharper/stormwreck-set/",
-  "download" : "https://github.com/BrotherSharper/stormwreck-set/archive/master.zip",
-	"manifest" : "https://raw.githubusercontent.com/BrotherSharper/stormwreck-set/master/world.json"
+  "download": "https://github.com/BrotherSharper/stormwreck-set/archive/master.zip",
+  "manifest": "https://raw.githubusercontent.com/BrotherSharper/stormwreck-set/master/world.json"
 }
