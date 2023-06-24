@@ -28,7 +28,7 @@ jobs:
         download: https://github.com/${{github.repository}}/releases/download/${{github.event.release.tag_name}}/world.zip
 
     # Create a zip file with all files required by the module to add to the release
-    - run: zip -r ./world.zip world.json README.MD /assets /audio /borders /data /images /scenes /Tokens
+    - run: zip -r ./world.zip world.json README.MD ./assets ./audio ./data ./images
 
     # Create a release for this specific version
     - name: Update Release with Files
