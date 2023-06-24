@@ -20,15 +20,15 @@ jobs:
       id: sub_manifest_link_version
       uses: microsoft/variable-substitution@v1
       with:
-        files: 'module.json'
+        files: 'world.json'
       env:
         version: ${{steps.get_version.outputs.version-without-v}}
         url: https://github.com/${{github.repository}}
-        manifest: https://github.com/${{github.repository}}/releases/latest/download/module.json
-        download: https://github.com/${{github.repository}}/releases/download/${{github.event.release.tag_name}}/module.zip
+        manifest: https://github.com/${{github.repository}}/releases/latest/download/world.json
+        download: https://github.com/${{github.repository}}/releases/download/${{github.event.release.tag_name}}/world.zip
 
     # Create a zip file with all files required by the module to add to the release
-    - run: zip -r ./module.zip world.json README.MD /assets /audio /borders /data /images /scenes /Tokens
+    - run: zip -r ./world.zip world.json README.MD /assets /audio /borders /data /images /scenes /Tokens
 
     # Create a release for this specific version
     - name: Update Release with Files
@@ -40,6 +40,6 @@ jobs:
         draft: ${{ github.event.release.unpublished }}
         prerelease: ${{ github.event.release.prerelease }}
         token: ${{ secrets.GITHUB_TOKEN }}
-        artifacts: './module.json, ./module.zip'
+        artifacts: './world.json, ./world.zip'
         tag: ${{ github.event.release.tag_name }}
         body: ${{ github.event.release.body }}
