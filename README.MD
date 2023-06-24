@@ -8,7 +8,8 @@
 
 ワールドタブより「ワールドインストール」を開いて、以下のリンクを入れてください。その後、「依存関係をインストールしますか」と聞かれるので、自動的にインストールを選んでください。環境によってはエラーが多く吐かれるかも知れませんが、正常にインストールされているはずですのでご確認ください。
 
-* リンク： https://raw.githubusercontent.com/BrotherSharper/stormwreck-set/master/world.json
+* 本体v10： https://github.com/BrotherSharper/stormwreck-set/releases/download/1.5/world.json
+* 本体v11： 準備中
 
 ### 内容
 「竜たちの島ストームレック」を遊ぶためのマップ、無料の範囲のクリーチャーデータとアイテム、作者の好みでNPCたちの画像等をいれたものです。
