@@ -4,6 +4,7 @@
   "system": "dnd5e",
   "background": "https://www.dndbeyond.com/avatars/26865/226/637921086362458107.jpeg",
   "coreVersion": "10.291",
+  "version": "This is auto replaced",
   "compatibility": {
     "minimum": "10",
     "verified": "10"
@@ -126,11 +127,6 @@
         "compatibility": {}
       },
       {
-        "id": "token-action-hud",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
         "id": "lmrtfy",
         "type": "module",
         "compatibility": {}
@@ -163,7 +159,7 @@
     ]
   },
   "systemVersion": "2.1.5",
-  "url": "https://github.com/BrotherSharper/stormwreck-set/",
-  "download": "https://github.com/BrotherSharper/stormwreck-set/archive/master.zip",
-  "manifest": "https://raw.githubusercontent.com/BrotherSharper/stormwreck-set/master/world.json"
+  "url": "This is auto replaced",
+  "download": "This is auto replaced",
+  "manifest": "This is auto replaced"
 }
