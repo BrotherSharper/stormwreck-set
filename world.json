@@ -87,11 +87,6 @@
         "compatibility": {}
       },
       {
-        "id": "permission_viewer",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
         "id": "sequencer",
         "type": "module",
         "compatibility": {}
