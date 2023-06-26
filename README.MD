@@ -8,7 +8,7 @@
 ワールドタブより「ワールドインストール」を開いて、以下のリンクを入れてください。その後、「依存関係をインストールしますか」と聞かれるので、自動的にインストールを選んでください。環境によってはエラーが多く吐かれるかも知れませんが、正常にインストールされているはずですのでご確認ください。
 
 * 本体v10： https://github.com/BrotherSharper/stormwreck-set/releases/download/1.5/world.json
-* 本体v11： 準備中
+* 本体v11： https://github.com/BrotherSharper/stormwreck-set/releases/download/1.6/world.json
 
 ### バージョン以降
 v10からv11へ以降する場合、いくつかのMod構成が違います。v10を残したままアップデートしても動かない可能性が高いです。**v10のワールドをバックアップしてから削除し、v11のものを入れてください。**
