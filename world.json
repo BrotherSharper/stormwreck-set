@@ -3,11 +3,11 @@
   "id": "stormwreck",
   "system": "dnd5e",
   "background": "https://www.dndbeyond.com/avatars/26865/226/637921086362458107.jpeg",
-  "coreVersion": "10.291",
+  "coreVersion": "11.302",
   "version": "This is auto replaced",
   "compatibility": {
-    "minimum": "10",
-    "verified": "10"
+    "minimum": "11",
+    "verified": "11.302"
   },
   "relationships": {
     "requires": [
@@ -112,11 +112,6 @@
         "compatibility": {}
       },
       {
-        "id": "token-mold",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
         "id": "autoanimations",
         "type": "module",
         "compatibility": {}
@@ -158,8 +153,11 @@
       }
     ]
   },
-  "systemVersion": "2.1.5",
+  "systemVersion": "2.2.1",
   "url": "This is auto replaced",
   "download": "This is auto replaced",
-  "manifest": "This is auto replaced"
+  "manifest": "This is auto replaced",
+  "lastPlayed": "Mon Jun 26 2023 11:40:24 GMT+0900 (日本標準時)",
+  "playtime": 4330,
+  "safeMode": false
 }
