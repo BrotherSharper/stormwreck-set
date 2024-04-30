@@ -1,5 +1,3 @@
-2023/06/26-10:24:21.317 5d70 Delete type=3 #1
-2023/06/26-10:25:02.265 7560 Level-0 table #5: started
-2023/06/26-10:25:02.269 7560 Level-0 table #5: 23142 bytes OK
-2023/06/26-10:25:02.277 7560 Delete type=0 #3
-2023/06/26-10:25:02.302 7560 Manual compaction at level-0 from '!scenes!9IqpbDdxCAaArxoF' @ 72057594037927935 : 1 .. '!scenes.walls!YonEn0kmKGYm3Qq3.zq990w4AB5pzDZc0' @ 0 : 0; will stop at (end)
+2024/04/30-13:55:50.905 3ea4 Recovering log #17
+2024/04/30-13:55:50.909 3ea4 Delete type=0 #17
+2024/04/30-13:55:50.909 3ea4 Delete type=3 #14
