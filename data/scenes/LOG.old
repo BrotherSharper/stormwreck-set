@@ -1,3 +1,5 @@
-2024/04/30-13:55:50.905 3ea4 Recovering log #17
-2024/04/30-13:55:50.909 3ea4 Delete type=0 #17
-2024/04/30-13:55:50.909 3ea4 Delete type=3 #14
+2024/04/30-14:02:29.461 1a6c Recovering log #21
+2024/04/30-14:02:29.461 1a6c Level-0 table #23: started
+2024/04/30-14:02:29.463 1a6c Level-0 table #23: 1166 bytes OK
+2024/04/30-14:02:29.466 1a6c Delete type=0 #21
+2024/04/30-14:02:29.466 1a6c Delete type=3 #20
