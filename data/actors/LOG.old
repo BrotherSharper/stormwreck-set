@@ -1,13 +1,22 @@
-2024/04/30-14:20:15.106 4e54 Recovering log #24
-2024/04/30-14:20:15.108 4e54 Level-0 table #27: started
-2024/04/30-14:20:15.115 4e54 Level-0 table #27: 470676 bytes OK
-2024/04/30-14:20:15.120 4e54 Delete type=2 #19
-2024/04/30-14:20:15.120 4e54 Delete type=2 #23
-2024/04/30-14:20:15.120 4e54 Delete type=0 #24
-2024/04/30-14:20:15.120 4e54 Delete type=3 #22
-2024/04/30-14:20:19.097 79c8 Compacting 1@0 + 1@1 files
-2024/04/30-14:20:19.113 79c8 Generated table #29@0: 517 keys, 776332 bytes
-2024/04/30-14:20:19.113 79c8 Compacted 1@0 + 1@1 files => 776332 bytes
-2024/04/30-14:20:19.113 79c8 compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/04/30-14:20:19.113 79c8 Delete type=2 #25
-2024/04/30-14:20:19.113 79c8 Delete type=2 #27
+2024/08/29-18:50:28.661 15be0 Recovering log #41
+2024/08/29-18:50:28.665 15be0 Level-0 table #43: started
+2024/08/29-18:50:28.678 15be0 Level-0 table #43: 1086162 bytes OK
+2024/08/29-18:50:28.681 15be0 Delete type=0 #41
+2024/08/29-18:50:28.682 15be0 Delete type=3 #40
+2024/08/29-18:50:28.701 f504 Compacting 1@0 + 1@1 files
+2024/08/29-18:50:28.720 f504 Generated table #45@0: 752 keys, 1201072 bytes
+2024/08/29-18:50:28.720 f504 Compacted 1@0 + 1@1 files => 1201072 bytes
+2024/08/29-18:50:28.721 f504 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/08/29-18:50:28.721 f504 Delete type=2 #39
+2024/08/29-18:50:28.721 f504 Delete type=2 #43
+2024/08/29-18:52:36.693 f504 Level-0 table #47: started
+2024/08/29-18:52:36.695 f504 Level-0 table #47: 6740 bytes OK
+2024/08/29-18:52:36.696 f504 Delete type=0 #44
+2024/08/29-18:52:36.697 f504 Manual compaction at level-0 from '!actors!2DvqLLn5ZBKw4rDN' @ 72057594037927935 : 1 .. '!actors.items.effects!zWgAVcH1sjJkQkAS.ayNdyvEJ8zg3hfs9.VN7GnGzVwmBM7YCU' @ 0 : 0; will stop at '!actors.items.effects!y7iFokilBpc7Iava.vg6HuT0Xn70RtFi1.R5ro4AuNjcdWD56O' @ 5516 : 0
+2024/08/29-18:52:36.697 f504 Compacting 1@0 + 1@1 files
+2024/08/29-18:52:36.709 f504 Generated table #48@0: 503 keys, 800417 bytes
+2024/08/29-18:52:36.709 f504 Compacted 1@0 + 1@1 files => 800417 bytes
+2024/08/29-18:52:36.709 f504 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/08/29-18:52:36.709 f504 Delete type=2 #45
+2024/08/29-18:52:36.710 f504 Delete type=2 #47
+2024/08/29-18:52:36.715 f504 Manual compaction at level-0 from '!actors.items.effects!y7iFokilBpc7Iava.vg6HuT0Xn70RtFi1.R5ro4AuNjcdWD56O' @ 5516 : 0 .. '!actors.items.effects!zWgAVcH1sjJkQkAS.ayNdyvEJ8zg3hfs9.VN7GnGzVwmBM7YCU' @ 0 : 0; will stop at (end)

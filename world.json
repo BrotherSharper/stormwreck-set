@@ -3,21 +3,16 @@
   "id": "stormwreck",
   "system": "dnd5e",
   "background": "https://www.dndbeyond.com/avatars/26865/226/637921086362458107.jpeg",
-  "coreVersion": "11.315",
+  "coreVersion": "12.331",
   "version": "This is auto replaced",
   "compatibility": {
-    "minimum": "11",
-    "verified": "11.315"
+    "minimum": "12",
+    "verified": "12.331"
   },
   "relationships": {
     "requires": [
       {
         "id": "dnd5eja",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "tidy5e-sheet",
         "type": "module",
         "compatibility": {}
       },
@@ -52,27 +47,12 @@
         "compatibility": {}
       },
       {
-        "id": "drag-ruler",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
         "id": "dae",
         "type": "module",
         "compatibility": {}
       },
       {
-        "id": "fxmaster",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
         "id": "JB2A_DnD5e",
-        "type": "module",
-        "compatibility": {}
-      },
-      {
-        "id": "colorsettings",
         "type": "module",
         "compatibility": {}
       },
@@ -178,11 +158,11 @@
       }
     ]
   },
-  "systemVersion": "3.1.2",
+  "systemVersion": "3.3.1",
   "url": "This is auto replaced",
   "download": "This is auto replaced",
   "manifest": "This is auto replaced",
-  "lastPlayed": "Tue Apr 30 2024 17:07:45 GMT+0900 (日本標準時)",
-  "playtime": 4330,
+  "lastPlayed": "Thu Aug 29 2024 18:56:35 GMT+0900 (日本標準時)",
+  "playtime": 4496,
   "safeMode": false
 }
