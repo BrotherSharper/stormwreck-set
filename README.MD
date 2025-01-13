@@ -9,6 +9,7 @@
 
 * 本体v10： https://github.com/BrotherSharper/stormwreck-set/releases/download/1.5/world.json
 * 本体v11： https://github.com/BrotherSharper/stormwreck-set/releases/download/2.2/world.json
+* 本体v12： https://github.com/BrotherSharper/stormwreck-set/releases/download/3.0/world.json
 
 どれを入れたら良いかわからない人は大きい方のvのものを入れてください。
 
